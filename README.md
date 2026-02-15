@@ -4,3 +4,10 @@
 | 日期 | 文件 |
 |------|------|
 | 2026-02-15 | [2026-02-15.md](./2026-02-15.md) |
+
+---
+
+## 🛠️ Skill
+
+本项目由 [github-trending-share](https://github.com/JAY5CXSDMY14/github-trending-share) Skill 驱动
+
